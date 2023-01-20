@@ -1,0 +1,7 @@
+Remember that we are using the first element as a reference and 
+then reducing it unless we get the prefix
+
+Here indexOf function is imp as it find out if the element is there .
+second remember the substring method.
+
+use it properly
